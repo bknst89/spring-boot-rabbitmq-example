@@ -1,0 +1,7 @@
+by/bknst/practise/rabbitmq/service/RabbitMQSender.class
+by/bknst/practise/rabbitmq/controller/DemoController.class
+by/bknst/practise/rabbitmq/Runner.class
+by/bknst/practise/rabbitmq/config/Config.class
+by/bknst/practise/rabbitmq/config/Config$MyFatalExceptionStrategy.class
+by/bknst/practise/rabbitmq/domain/MenuOrder.class
+by/bknst/practise/rabbitmq/service/RabbitMQReceiver.class

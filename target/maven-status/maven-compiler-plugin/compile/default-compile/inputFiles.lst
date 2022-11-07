@@ -1,0 +1,6 @@
+/Users/bknst/Projects/spring-boot-rabbitmq-example/src/main/java/by/bknst/practise/rabbitmq/Runner.java
+/Users/bknst/Projects/spring-boot-rabbitmq-example/src/main/java/by/bknst/practise/rabbitmq/service/RabbitMQReceiver.java
+/Users/bknst/Projects/spring-boot-rabbitmq-example/src/main/java/by/bknst/practise/rabbitmq/config/Config.java
+/Users/bknst/Projects/spring-boot-rabbitmq-example/src/main/java/by/bknst/practise/rabbitmq/service/RabbitMQSender.java
+/Users/bknst/Projects/spring-boot-rabbitmq-example/src/main/java/by/bknst/practise/rabbitmq/domain/MenuOrder.java
+/Users/bknst/Projects/spring-boot-rabbitmq-example/src/main/java/by/bknst/practise/rabbitmq/controller/DemoController.java
